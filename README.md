@@ -5,5 +5,5 @@ After you install love2d, clone the project in any folder and run
 $ love invaders/
 ```
 
-##Game Rules
+## Game Rules
 Use 'f' to shoot space invaders
